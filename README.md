@@ -1,6 +1,6 @@
 # Unlauncher Releases
 
-![Unlauncher Feature Graphic](assets/feature_graphic.png)
+![Unlauncher Feature Graphic](assets/feature_graphic.jpg)
 
 This repository contains the release APKs for **Unlauncher** - a minimalist Android launcher designed for digital wellness and intentional phone usage.
 
