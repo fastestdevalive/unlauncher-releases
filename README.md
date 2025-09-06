@@ -1,5 +1,7 @@
 # Unlauncher Releases
 
+![Unlauncher Feature Graphic](assets/feature_graphic.png)
+
 This repository contains the release APKs for **Unlauncher** - a minimalist Android launcher designed for digital wellness and intentional phone usage.
 
 ## About Unlauncher
@@ -80,7 +82,7 @@ After installation, Unlauncher will guide you through a simple onboarding proces
 Unlauncher is designed with privacy in mind:
 - No data collection or tracking
 - All data stays on your device
-- Read our [Privacy Policy](https://unlauncher.app/privacy)
+- Read our [Privacy Policy](https://unlauncher.hundredgb.com/privacy)
 
 
 **Made with ❤️ for digital wellness and intentional living**
